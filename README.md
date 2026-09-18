@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Kishore 👋
 
-<!--
-**kishore-gutta/kishore-gutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building [Engineering Runtime](https://engineeringruntime.com/) — a deterministic execution layer for engineering automation and AI agents.
 
-Here are some ideas to get you started:
+> AI understands intent. Engineering Runtime executes deterministically.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+
+- Engineering Runtime core and execution engines
+- AI agent execution and governance
+- Cloud and Kubernetes authentication
+- Self-describing and reusable capabilities
+- Platform engineering and developer infrastructure
+
+📍 Melbourne, Australia  
+🌐 [engineeringruntime.com](https://engineeringruntime.com/)  
+🏢 [github.com/engineeringruntime](https://github.com/engineeringruntime)
